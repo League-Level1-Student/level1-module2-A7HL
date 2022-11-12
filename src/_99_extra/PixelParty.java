@@ -19,7 +19,6 @@ import javax.swing.JPanel;
  * Finally, have your PixelParty save the image, and display the image.
  */
 
-
 public class PixelParty {
 	public static int BLACK = getColor(255, 0, 0, 0);
 	public int currentColor = BLACK;
